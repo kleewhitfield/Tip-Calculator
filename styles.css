@@ -1,0 +1,36 @@
+#results {
+         
+         border-top: 2px solid black;
+         color: darkblue;
+       }
+	   
+
+
+
+.card {
+  background-color: lightgrey; 
+}
+
+.heading {
+  color: darkblue;
+}
+
+.money {
+  color: red;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.input-group-addon {
+  background-color: darkblue;
+  color: white;
+  border-radius: 25px;
+}
+
+.input-group {
+  color: darkblue;
+}
+
+.form-control {
+  border-radius: 25px;
+}
